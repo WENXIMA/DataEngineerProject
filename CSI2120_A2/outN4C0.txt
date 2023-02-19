@@ -1,0 +1,22 @@
+Number of points: 232050
+NW:(40.700000 , -74.000000)
+SE:(40.800000 , -73.930000) 
+
+Partition          0 : [   2,  6514]
+Partition   10000000 : [   2, 38774]
+Partition   20000000 : [   2, 31599]
+Partition   30000000 : [   2,  2015]
+Partition    1000000 : [   2,   540]
+Partition   11000000 : [   2, 14022]
+Partition   21000000 : [   2, 56611]
+Partition   31000000 : [   2, 15370]
+Partition    2000000 : [   2,   272]
+Partition   12000000 : [   2,   288]
+Partition   22000000 : [   2, 19940]
+Partition   32000000 : [   2, 16535]
+Partition    3000000 : [   1,    17]
+Partition   13000000 : [   2,   226]
+Partition   23000000 : [   2,  1192]
+Partition   33000000 : [   2,  2187]
+
+Execution time: 286.8071ms of 206102 points
